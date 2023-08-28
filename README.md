@@ -7,8 +7,6 @@ I have also included a notebook file that is used to procure and the load the da
 
 
 
-The Data Engineering Job Vacancies ETL Pipeline aims to automate the process of gathering relevant job vacancy data from a RapidAPI service, performing data transformations, and storing the processed data in a PostgreSQL database. The structured data is enriched with extracted skills from the job descriptions, providing valuable insights into the sought-after skills in the job market.
-
 ## How it Works
 
 1. **Data Extraction**: The python script extracts data from <a href="https://docs.google.com/spreadsheets/d/13IrO_Aalrv-sH1VAYpmnSs8UJOw-RaZd73sGr_0UNV0/edit?usp=sharing" target="_blank">Link</a>.
